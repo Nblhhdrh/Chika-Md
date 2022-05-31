@@ -12,37 +12,37 @@ const chalk = require('chalk')
 //—————「 Website Apikey 」—————//
 global.APIs = {
 //gausah di apa² in!
-zenz: 'https://zenzapis.xyz',
+zenz: 'https://-',
 }
 
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasGanz',
+'https://-': 'BagasGanz',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6737370080','6737370080','6737370080'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6737370080'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6737370080' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Nblh' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ChikaBot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Nblh' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.youtube = 'https://youtube.com/channel/-'
+global.ig = 'https://instagram.com/bsnblhla'
+global.mygc = 'https://chat.whatsapp.com/HZNOV6sR3gJ8LsZ8jFrQNW'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
+global.email = 'nblh7080@gmail.com'
+global.region = 'Malaysia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'Chikabot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Nblh' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -85,13 +85,13 @@ global.mess = {
 success: '_Done._',
 admin: '_Fitur Khusus Admin Group!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
-error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+owner: '_Hanya untuk Admin Group!_',
+group: '_Hanya Digunakan Untuk Group!_',
+private: '_Hanya Untuk Private Chat!_',
+bot: '_Khusus Pengguna Nombor Bot_',
+wait: '_Loading..._',
+error: '_Error!_',
+endLimit: '_Limit Harian Anda Telah Habis_',
 }
 
 //—————「 Batas Akhir 」—————//
